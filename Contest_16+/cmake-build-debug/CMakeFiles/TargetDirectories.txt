@@ -1,0 +1,3 @@
+/mnt/d/University_CXX/Algorithms/Contest_16+/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/University_CXX/Algorithms/Contest_16+/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/University_CXX/Algorithms/Contest_16+/cmake-build-debug/CMakeFiles/Contest_16+.dir

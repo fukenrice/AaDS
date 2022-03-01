@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Contest_16.dir/Contest_16/Task_4.cpp.o  -o Contest_16 

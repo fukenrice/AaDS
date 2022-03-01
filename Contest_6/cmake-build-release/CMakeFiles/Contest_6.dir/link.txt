@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/Contest_6.dir/Task_5.cpp.o  -o Contest_6 
