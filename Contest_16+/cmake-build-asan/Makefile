@@ -123,32 +123,32 @@ Contest_16+/fast:
 	$(MAKE) -f CMakeFiles/Contest_16+.dir/build.make CMakeFiles/Contest_16+.dir/build
 .PHONY : Contest_16+/fast
 
-Contest_17/Task_3.o: Contest_17/Task_3.cpp.o
+Contest_21/Task_5.o: Contest_21/Task_5.cpp.o
 
-.PHONY : Contest_17/Task_3.o
+.PHONY : Contest_21/Task_5.o
 
 # target to build an object file
-Contest_17/Task_3.cpp.o:
-	$(MAKE) -f CMakeFiles/Contest_16+.dir/build.make CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.o
-.PHONY : Contest_17/Task_3.cpp.o
+Contest_21/Task_5.cpp.o:
+	$(MAKE) -f CMakeFiles/Contest_16+.dir/build.make CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.o
+.PHONY : Contest_21/Task_5.cpp.o
 
-Contest_17/Task_3.i: Contest_17/Task_3.cpp.i
+Contest_21/Task_5.i: Contest_21/Task_5.cpp.i
 
-.PHONY : Contest_17/Task_3.i
+.PHONY : Contest_21/Task_5.i
 
 # target to preprocess a source file
-Contest_17/Task_3.cpp.i:
-	$(MAKE) -f CMakeFiles/Contest_16+.dir/build.make CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.i
-.PHONY : Contest_17/Task_3.cpp.i
+Contest_21/Task_5.cpp.i:
+	$(MAKE) -f CMakeFiles/Contest_16+.dir/build.make CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.i
+.PHONY : Contest_21/Task_5.cpp.i
 
-Contest_17/Task_3.s: Contest_17/Task_3.cpp.s
+Contest_21/Task_5.s: Contest_21/Task_5.cpp.s
 
-.PHONY : Contest_17/Task_3.s
+.PHONY : Contest_21/Task_5.s
 
 # target to generate assembly for a file
-Contest_17/Task_3.cpp.s:
-	$(MAKE) -f CMakeFiles/Contest_16+.dir/build.make CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.s
-.PHONY : Contest_17/Task_3.cpp.s
+Contest_21/Task_5.cpp.s:
+	$(MAKE) -f CMakeFiles/Contest_16+.dir/build.make CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.s
+.PHONY : Contest_21/Task_5.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... Contest_16+"
-	@echo "... Contest_17/Task_3.o"
-	@echo "... Contest_17/Task_3.i"
-	@echo "... Contest_17/Task_3.s"
+	@echo "... Contest_21/Task_5.o"
+	@echo "... Contest_21/Task_5.i"
+	@echo "... Contest_21/Task_5.s"
 .PHONY : help
 
 

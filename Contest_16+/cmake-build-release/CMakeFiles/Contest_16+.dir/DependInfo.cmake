@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/d/University_CXX/Algorithms/Contest_16+/Contest_17/Task_3.cpp" "/mnt/d/University_CXX/Algorithms/Contest_16+/cmake-build-release/CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.o"
+  "/mnt/d/University_CXX/Algorithms/Contest_16+/Contest_21/Task_5.cpp" "/mnt/d/University_CXX/Algorithms/Contest_16+/cmake-build-release/CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

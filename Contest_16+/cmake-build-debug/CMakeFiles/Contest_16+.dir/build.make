@@ -57,27 +57,27 @@ include CMakeFiles/Contest_16+.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Contest_16+.dir/flags.make
 
-CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.o: CMakeFiles/Contest_16+.dir/flags.make
-CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.o: ../Contest_17/Task_3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/University_CXX/Algorithms/Contest_16+/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.o -c /mnt/d/University_CXX/Algorithms/Contest_16+/Contest_17/Task_3.cpp
+CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.o: CMakeFiles/Contest_16+.dir/flags.make
+CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.o: ../Contest_21/Task_5.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/University_CXX/Algorithms/Contest_16+/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.o -c /mnt/d/University_CXX/Algorithms/Contest_16+/Contest_21/Task_5.cpp
 
-CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/University_CXX/Algorithms/Contest_16+/Contest_17/Task_3.cpp > CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.i
+CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/d/University_CXX/Algorithms/Contest_16+/Contest_21/Task_5.cpp > CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.i
 
-CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/University_CXX/Algorithms/Contest_16+/Contest_17/Task_3.cpp -o CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.s
+CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/d/University_CXX/Algorithms/Contest_16+/Contest_21/Task_5.cpp -o CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.s
 
 # Object files for target Contest_16+
 Contest_16____OBJECTS = \
-"CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.o"
+"CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.o"
 
 # External object files for target Contest_16+
 Contest_16____EXTERNAL_OBJECTS =
 
-Contest_16+: CMakeFiles/Contest_16+.dir/Contest_17/Task_3.cpp.o
+Contest_16+: CMakeFiles/Contest_16+.dir/Contest_21/Task_5.cpp.o
 Contest_16+: CMakeFiles/Contest_16+.dir/build.make
 Contest_16+: CMakeFiles/Contest_16+.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/University_CXX/Algorithms/Contest_16+/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Contest_16+"
