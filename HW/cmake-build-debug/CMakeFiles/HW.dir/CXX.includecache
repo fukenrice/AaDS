@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/University_CXX/Algorithms/HW/exceptions.h
+exception
+-
+string
+-
+
+/mnt/d/University_CXX/Algorithms/HW/main.cpp
+iostream
+-
+sorts.h
+/mnt/d/University_CXX/Algorithms/HW/sorts.h
+time.h
+-
+rnd.h
+/mnt/d/University_CXX/Algorithms/HW/rnd.h
+fstream
+-
+cstdlib
+-
+exceptions.h
+/mnt/d/University_CXX/Algorithms/HW/exceptions.h
+
+/mnt/d/University_CXX/Algorithms/HW/rnd.h
+
+/mnt/d/University_CXX/Algorithms/HW/sorts.h
+iostream
+-
+utility
+-
+vector
+-
+

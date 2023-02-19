@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/Contest9.dir/Task_2_otpravka.cpp.o  -o Contest9 

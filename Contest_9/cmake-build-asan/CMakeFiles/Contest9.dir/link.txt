@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -fsanitize=address,undefined -fno-sanitize-recover=all   CMakeFiles/Contest9.dir/Task_2_otpravka.cpp.o  -o Contest9 

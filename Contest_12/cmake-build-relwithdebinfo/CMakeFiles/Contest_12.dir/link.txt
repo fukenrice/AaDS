@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -g -DNDEBUG   CMakeFiles/Contest_12.dir/main.cpp.o  -o Contest_12 
